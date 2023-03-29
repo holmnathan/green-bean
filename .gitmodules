@@ -1,6 +1,0 @@
-[submodule "api"]
-	path = api
-[submodule "client/pos"]
-	path = client/pos
-[submodule "client/inventory"]
-	path = client/inventory
